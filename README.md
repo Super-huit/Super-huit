@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#I'm currently learning things on cybersecurity
-#If you want to reach me, send me an email on anthony.becuwe@epita.fr
+I'm currently learning things on cybersecurity<br>
+If you want to reach me, send me an email on anthony.becuwe@epita.fr
